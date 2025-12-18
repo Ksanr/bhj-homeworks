@@ -33,4 +33,4 @@ setInterval(() => {
         s = 5000;
     }
     timer.textContent = toHHMMSS(s);
-}, 1)
+}, 1000)
