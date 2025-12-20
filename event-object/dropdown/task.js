@@ -13,5 +13,7 @@ function selectLink(event) {
   dropdown.classList.toggle('dropdown__list_active');
 }
 
+//dropdownValue.addEventListener('click', toggleDropdown);
+
 dropdownValue.addEventListener('click', selectLink);
 dropdown.addEventListener('click', selectLink);
