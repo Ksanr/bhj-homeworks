@@ -1,5 +1,3 @@
-// task.js
-
 document.addEventListener('DOMContentLoaded', function() {
     const itemsContainer = document.getElementById('items');
     const loader = document.getElementById('loader');
